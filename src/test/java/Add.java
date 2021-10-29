@@ -8,5 +8,6 @@ public class Add {
 		int a=4,b=5;
 		
 		Reporter.log("result =", a+b, true);
+		System.out.println("joy");
 	}
 }
